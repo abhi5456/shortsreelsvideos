@@ -17,6 +17,7 @@ const VideoHome = () => {
   return (
     <>
       <div className="video-home">
+        <h1> testing </h1>
         <DomainRecord />
         <div className="video-grid">
           {videos.length > 1 &&
